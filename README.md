@@ -3,9 +3,12 @@ It uses syntax tree and symbol table to check whether the given program is seman
 
 ### Semantic Errors:
 Errors recognized by semantic analyzer are as follows:
-* Type mismatch
-* Undeclared variables
-* Reserved identifier misuse
+* Type mismatch.
+* Undeclared variables.
+* Reserved identifier misuse.
+* Multiple declaration of variable in a scope.
+* Accessing an out of scope variable.
+* Actual and formal parameter mismatch.
 
 ### Functions of Semantic Analysis:
 * Type Checking – Ensures that data types are used in a way consistent with their definition.
