@@ -20,4 +20,5 @@ Errors recognized by semantic analyzer are as follows:
 ![image](https://user-images.githubusercontent.com/97080055/235754522-ad137423-1061-4c76-acfa-b7b2a06b616e.png)
 
 ### Static and Dynamic Semantics:
-1. Static Semantics –
+* Static Semantics – It is named so because of the fact that these are checked at compile time. The static semantics and meaning of program during execution, are indirectly related.
+* Dynamic Semantic Analysis – It defines the meaning of different units of program like expressions and statements. These are checked at runtime unlike static semantics.
