@@ -18,7 +18,7 @@ Errors recognized by semantic analyzer are as follows:
 ![image](https://user-images.githubusercontent.com/97080055/235754439-c8f59f6e-211d-4bf3-ad88-378427765c82.png)
 
 
-### Architectural Diagram
+### Architectural Diagram:
 
 ![image](https://user-images.githubusercontent.com/97080055/235754522-ad137423-1061-4c76-acfa-b7b2a06b616e.png)
 
@@ -26,8 +26,15 @@ Errors recognized by semantic analyzer are as follows:
 * Static Semantics – It is named so because of the fact that these are checked at compile time. The static semantics and meaning of program during execution, are indirectly related.
 * Dynamic Semantic Analysis – It defines the meaning of different units of program like expressions and statements. These are checked at runtime unlike static semantics.
 
-### Working Screenshots
+### Working Screenshots:
 
 ![image](https://user-images.githubusercontent.com/97080055/236691504-1bd6e717-819d-4c4b-9413-3a17132b4fe7.png)
 
 ![image](https://user-images.githubusercontent.com/97080055/236691535-14e06988-7b26-49ed-b218-d23e19d41396.png)
+
+### Additional Screenshots:
+
+![image](https://user-images.githubusercontent.com/97080055/236691627-f89c4997-fa62-4126-80ed-ff7a76ed5fde.png)
+
+![image](https://user-images.githubusercontent.com/97080055/236691636-881b08f4-a23e-4838-8b9f-cbdbf009df53.png)
+
